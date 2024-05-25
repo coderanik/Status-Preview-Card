@@ -1,5 +1,6 @@
 #SOCIAL PREVIEW CARD
-<br>
+
+
 The website is desktop responsive.
 <br><br>
 Developed by Ansubha Dhar
