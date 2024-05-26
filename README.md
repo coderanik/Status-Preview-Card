@@ -1,7 +1,7 @@
 # SOCIAL PREVIEW CARD
 
 
-The website is desktop responsive.
+The website is desktop and mobile responsive.
 <br><br>
 Developed by Ansubha Dhar
 <br>
