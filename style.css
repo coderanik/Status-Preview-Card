@@ -79,19 +79,3 @@ img{
 h1{
     font-size: 28px;
 }
-@media(max-width:375px)
-{
-    #card{
-        width:300px;
-        display:flex;
-        flex-direction:column-reverse;
-    }
-    .card1
-    {
-        width:100%;
-        color:white;
-    }
-    #image{
-        height:200px;
-    }
-}
